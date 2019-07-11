@@ -24,18 +24,18 @@ print ("\n")
 
 #--------------------------------------------
 
-#Agregando elementos a la lista
+Agregando elementos a la lista
 
-#lista.append("VIERNES")
+lista.append("VIERNES")
 
-#print ("Lista con nuevos elementos:")
-#print (lista)
+print ("Lista con nuevos elementos:")
+print (lista)
 
 #--------------------------------------------
 
 #Eliminando elementos de la lista
 
-#del lista[0]
+del lista[0]
 
-#print ("Lista eliminado elementos")
-#print (lista)
+print ("Lista eliminado elementos")
+print (lista)
