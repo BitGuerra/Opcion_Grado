@@ -14,7 +14,6 @@ while True:
 			break
 
 		else:
-
 			print("\nDATO INVALIDO")
 
 	except ValueError:
@@ -27,13 +26,11 @@ numeros = [0 for i in range(0,longitud)]
 for i in range(0,longitud):
 
 	while True:
-
 		try:
 			numero = float(input("\nDigite un la nota{}: ".format(i+1)))
 
 			if numero > 0:
 				break
-
 			else:
 				print("\nDATO INVALIDO")
 
@@ -41,7 +38,6 @@ for i in range(0,longitud):
 
 				print("\nDATO INVALIDO")
 				continue
-
 	numeros[i] = numero
 
 	if numero < menor:
