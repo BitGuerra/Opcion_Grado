@@ -1,7 +1,7 @@
 # Opcion de Grado
 
 This repository contains the code for the IoT summer course, "opcion de grado",  here you will find class examples, exercices and more,
-the contens are presented in the slides in the moodle plataform. the bigest topics are:
+the contens are presented in the slides in the moodle plataform. The bigest topics are:
 
 * Arduino: ADC, PWM digital writing and riding .
 * Introduction to python: List, cicles, conditionals, validations, functions, dictionarys.
