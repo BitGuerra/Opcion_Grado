@@ -1,10 +1,10 @@
-# Opción de Grado
+# Opción de grado
 
-This repository contains the code for the IoT summer course, "opcion de grado",  here you will find class examples, exercices and more,
-the contens are presented in the slides in the moodle plataform. The bigest topics are:
+This repository contains the code for the IoT summer course, "opción de grado", here you will find class examples, exercises and more, the contents are presented in the slides in the moodle platform. The biggest topics are:
 
-* Arduino: ADC, PWM digital writing and riding .
-* Introduction to python: List, cicles, conditionals, validations, functions, dictionarys.
-* Raspberry Pi: basic linux comands, SSH comunication, nano text editor.
-* Rapberry Pi GPIO: pin out, Pull up, pull down, PWM, servo control, pulse counter and serial comunication with arduino.
-* Rapberry Pi & Google firebase: python librarys for firebase, database reading and writing using dictionarys.
+* __Arduino__: ADC, PWM digital writing and riding .
+* __Introduction to python__: list, cicles, conditionals, validations, functions, dictionaries.
+* __Raspberry Pi__: basic linux commands, SSH communication, nano text editor.
+* __Raspberry Pi GPIO__: pin out, Pull up, pull down, PWM, servo control, pulse counter and serial communication with arduino.
+* __Raspberry Pi & Google firebase__: python libraries for firebase, database reading and writing using dictionaries.
+
